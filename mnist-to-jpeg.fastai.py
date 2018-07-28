@@ -3,7 +3,6 @@ import os
 
 from scipy.misc import imsave
 import numpy as np
-import csv
 
 IMAGE_SIZE = 28
 
